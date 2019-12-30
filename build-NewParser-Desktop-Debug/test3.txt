@@ -1,0 +1,3 @@
+write,WRITE
+read,READ
+xx,IDENTIFIER
